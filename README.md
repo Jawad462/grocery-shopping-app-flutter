@@ -13,7 +13,7 @@ Welcome to the Flutter+Firebase Online Grocery Store repository! This repository
 - Order tracking and history
 - Push notifications for order updates
 
-### Admin Panel:
+### Admin Panel
 - Manage product inventory easily
 - View and process orders from customers
 - Monitor sales and revenue
