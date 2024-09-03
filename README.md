@@ -4,7 +4,7 @@ Welcome to the Flutter+Firebase Online Grocery Store repository! This repository
 
 ## Features
 
-### Mobile App:
+### Mobile App
 - Browse through a wide range of grocery items
 - Search functionality to quickly find products
 - Add items to cart and manage cart contents
